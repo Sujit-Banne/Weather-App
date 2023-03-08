@@ -1,3 +1,8 @@
+## Live Demo - https://weather-app-roan-gamma.vercel.app/
+
+![image](https://user-images.githubusercontent.com/79455689/223645019-baf59614-a4c3-4a14-87bb-3db91f0ecfce.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
